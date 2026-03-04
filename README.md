@@ -16,7 +16,6 @@ This module implements:
 - A simple reflex agent
 - Reads environmental parameters from a file
 - Classifies AQI levels
-- Includes architecture diagram and documentation
 
 
 ## 3. Uninformed Search Algorithms
