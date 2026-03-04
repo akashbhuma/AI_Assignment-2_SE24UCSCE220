@@ -23,11 +23,11 @@ Problem Implemented: Missionaries and Cannibals Problem
 
 Algorithms:
 
-Breadth First Search (BFS)
-Depth First Search (DFS)
-Depth Limited Search (DLS)
-Iterative Deepening Depth First Search (IDDFS)
-Uniform Cost Search (UCS)
+-Breadth First Search (BFS)
+-Depth First Search (DFS)
+-Depth Limited Search (DLS)
+-Iterative Deepening Depth First Search (IDDFS)
+=Uniform Cost Search (UCS)
 
 Includes:
 
