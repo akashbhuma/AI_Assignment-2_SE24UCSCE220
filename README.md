@@ -1,10 +1,9 @@
 # AI Assignment 2
 
-## 1. Turing Test and CAPTCHA Architecture
-**Folder:** `Turing_Captcha`
+## 1. CAPTCHA Architecture
+**Folder:** `Q1_CAPTCHA`
 
 This module contains:
-- Architecture design of the Turing Test
 - CAPTCHA system architecture
 - Documentation and diagrams
 
@@ -38,5 +37,4 @@ Missionaries and Cannibals Problem
 
 ## Technologies Used
 - Python
-- Markdown
 - GitHub
