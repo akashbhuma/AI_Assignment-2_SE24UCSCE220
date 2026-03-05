@@ -58,9 +58,9 @@ This component manages the CAPTCHA verification session.
 - Lock the system after reaching the maximum attempts
 
 **Key Variables**
-self.attempts
-self.currentCode
-MAX_ATTEMPTS
+- self.attempts
+- self.currentCode
+- MAX_ATTEMPTS
 
 
 ---
