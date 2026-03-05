@@ -1,0 +1,3 @@
+[submodule "Q2_AQI_Agent"]
+	path = Q2_AQI_Agent
+	url = https://github.com/sushanthlingala/AQI_Agent_Group.git
