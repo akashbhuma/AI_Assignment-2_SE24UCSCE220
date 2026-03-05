@@ -9,7 +9,7 @@ This module contains:
 
 
 ## 2. AQI Simple Reflex Agent
-**Folder:** `AQI_Agent`
+**Folder:** `Q2_AQI_Agent`
 
 This module implements:
 - A simple reflex agent
@@ -18,7 +18,7 @@ This module implements:
 
 
 ## 3. Uninformed Search Algorithms
-**Folder:** `Search_Algorithms`
+**Folder:** `Q3-MissionaryCannibals`
 
 **Problem Implemented:**  
 Missionaries and Cannibals Problem
